@@ -31,7 +31,7 @@
 
 ##### Current Progress of the Project
 
-[![current progress of this project](http://progressed.io/bar/10?title=&nbsp;completed&nbsp;)](https://github.com/rubenandrebarreiro/gpu-self-organising-maps/) 
+[![current progress of this project](http://progressed.io/bar/80?title=&nbsp;completed&nbsp;)](https://github.com/rubenandrebarreiro/gpu-self-organising-maps/) 
 
 ##### Final Approval Grade of the Project
 

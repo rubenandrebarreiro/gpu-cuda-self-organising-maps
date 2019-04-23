@@ -40,7 +40,7 @@
 
 ## Description
 
-> A [**_1rd year's lab work (project)_**](http://www.unl.pt/guia/2018/fct/UNLGI_getCurso?curso=935) of the [**_MSc. degree of Informatics and Computing Engineering_**](https://www.fct.unl.pt/en/education/course/integrated-master-computer-science/) made in [**_FCT NOVA (Faculty of Sciences and Technology of New University of Lisbon)_**](https://www.fct.unl.pt/), in the subject of [**_High Performance Computing_**](http://www.unl.pt/guia/2018/fct/UNLGI_getUC?uc=11165). This projects was built using [**_C++ (C Plus Plus)_**](http://www.cplusplus.com/) and [**_CUDA (Compute Unified Device Architecture)_**](https://developer.nvidia.com/cuda-zone). This repository it's based in some _1st lab work (project)_ related with [**_High Performance Computing_**](http://www.unl.pt/guia/2018/fct/UNLGI_getUC?uc=11165)!
+> A [**_1st year's lab work (project)_**](http://www.unl.pt/guia/2018/fct/UNLGI_getCurso?curso=935) of the [**_MSc. degree of Informatics and Computing Engineering_**](https://www.fct.unl.pt/en/education/course/integrated-master-computer-science/) made in [**_FCT NOVA (Faculty of Sciences and Technology of New University of Lisbon)_**](https://www.fct.unl.pt/), in the subject of [**_High Performance Computing_**](http://www.unl.pt/guia/2018/fct/UNLGI_getUC?uc=11165). This projects was built using [**_C++ (C Plus Plus)_**](http://www.cplusplus.com/) and [**_CUDA (Compute Unified Device Architecture)_**](https://developer.nvidia.com/cuda-zone). This repository it's based in some _1st lab work (project)_ related with [**_High Performance Computing_**](http://www.unl.pt/guia/2018/fct/UNLGI_getUC?uc=11165)!
 
 ### 1) Goal
 

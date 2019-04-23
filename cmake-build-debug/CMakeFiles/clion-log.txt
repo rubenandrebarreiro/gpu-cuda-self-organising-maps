@@ -1,0 +1,4 @@
+/home/rubenandrebarreiro/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/183.5429.37/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/rubenandrebarreiro/Desktop/Projects/Repositories/gpu-cuda-self-organising-maps
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/rubenandrebarreiro/Desktop/Projects/Repositories/gpu-cuda-self-organising-maps/cmake-build-debug

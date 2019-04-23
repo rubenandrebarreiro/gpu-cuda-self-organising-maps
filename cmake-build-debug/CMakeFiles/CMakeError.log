@@ -1,0 +1,55 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/rubenandrebarreiro/Desktop/Projects/Repositories/gpu-cuda-self-organising-maps/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_13e96/fast"
+/usr/bin/make -f CMakeFiles/cmTC_13e96.dir/build.make CMakeFiles/cmTC_13e96.dir/build
+make[1]: Entering directory '/home/rubenandrebarreiro/Desktop/Projects/Repositories/gpu-cuda-self-organising-maps/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_13e96.dir/CheckSymbolExists.cxx.o
+/usr/bin/c++    -std=gnu++14 -o CMakeFiles/cmTC_13e96.dir/CheckSymbolExists.cxx.o -c /home/rubenandrebarreiro/Desktop/Projects/Repositories/gpu-cuda-self-organising-maps/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
+Linking CXX executable cmTC_13e96
+/home/rubenandrebarreiro/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/183.5429.37/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_13e96.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_13e96.dir/CheckSymbolExists.cxx.o  -o cmTC_13e96 
+CMakeFiles/cmTC_13e96.dir/CheckSymbolExists.cxx.o: In function `main':
+CheckSymbolExists.cxx:(.text+0x1b): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_13e96.dir/build.make:86: recipe for target 'cmTC_13e96' failed
+make[1]: *** [cmTC_13e96] Error 1
+make[1]: Leaving directory '/home/rubenandrebarreiro/Desktop/Projects/Repositories/gpu-cuda-self-organising-maps/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:121: recipe for target 'cmTC_13e96/fast' failed
+make: *** [cmTC_13e96/fast] Error 2
+
+File /home/rubenandrebarreiro/Desktop/Projects/Repositories/gpu-cuda-self-organising-maps/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/rubenandrebarreiro/Desktop/Projects/Repositories/gpu-cuda-self-organising-maps/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_d77e4/fast"
+/usr/bin/make -f CMakeFiles/cmTC_d77e4.dir/build.make CMakeFiles/cmTC_d77e4.dir/build
+make[1]: Entering directory '/home/rubenandrebarreiro/Desktop/Projects/Repositories/gpu-cuda-self-organising-maps/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_d77e4.dir/CheckFunctionExists.cxx.o
+/usr/bin/c++    -DCHECK_FUNCTION_EXISTS=pthread_create   -std=gnu++14 -o CMakeFiles/cmTC_d77e4.dir/CheckFunctionExists.cxx.o -c /home/rubenandrebarreiro/Desktop/Projects/Repositories/gpu-cuda-self-organising-maps/cmake-build-debug/CMakeFiles/CheckLibraryExists/CheckFunctionExists.cxx
+Linking CXX executable cmTC_d77e4
+/home/rubenandrebarreiro/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/183.5429.37/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d77e4.dir/link.txt --verbose=1
+/usr/bin/c++   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_d77e4.dir/CheckFunctionExists.cxx.o  -o cmTC_d77e4 -lpthreads 
+/usr/bin/x86_64-linux-gnu-ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_d77e4.dir/build.make:86: recipe for target 'cmTC_d77e4' failed
+make[1]: *** [cmTC_d77e4] Error 1
+make[1]: Leaving directory '/home/rubenandrebarreiro/Desktop/Projects/Repositories/gpu-cuda-self-organising-maps/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:121: recipe for target 'cmTC_d77e4/fast' failed
+make: *** [cmTC_d77e4/fast] Error 2
+
+

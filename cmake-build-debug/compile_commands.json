@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/rubenandrebarreiro/Desktop/Projects/Repositories/gpu-cuda-self-organising-maps/cmake-build-debug",
+  "command": "/usr/bin/c++   -I/home/rubenandrebarreiro/Desktop/Projects/Repositories/gpu-cuda-self-organising-maps/include  -g   -std=gnu++14 -o CMakeFiles/gpu-self-organising-maps.dir/src/cpu_som_sequential.cpp.o -c /home/rubenandrebarreiro/Desktop/Projects/Repositories/gpu-cuda-self-organising-maps/src/cpu_som_sequential.cpp",
+  "file": "/home/rubenandrebarreiro/Desktop/Projects/Repositories/gpu-cuda-self-organising-maps/src/cpu_som_sequential.cpp"
+}
+]

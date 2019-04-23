@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="gpu_self_organising_maps" targetName="gpu-self-organising-maps" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e1ac763-ba7b-45a9-94ec-6e0d95c8aee1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeCUDACompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CUDA.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/CMakeCUDACompilerId.cu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cpp1.ii" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cpp4.ii" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cudafe1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cudafe1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cudafe1.gpu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cudafe1.stub.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.fatbin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.fatbin.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.module_id" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.ptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.sm_30.cubin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/tmp/a_dlink.fatbin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/tmp/a_dlink.fatbin.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/tmp/a_dlink.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/tmp/a_dlink.reg.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/tmp/a_dlink.sm_30.cubin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeError.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CheckLibraryExists/CheckFunctionExists.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/gpu-self-organising-maps.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/gpu-self-organising-maps.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/gpu-self-organising-maps.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/gpu-self-organising-maps.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/gpu-self-organising-maps.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/gpu-self-organising-maps.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/gpu-self-organising-maps.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CTestTestfile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-src" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/3.13.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/CMakeRuleHashes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir/Labels.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir/Labels.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-gitclone-lastrun.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-gitinfo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/tmp/googletest-populate-cfgcmd.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/tmp/googletest-populate-cfgcmd.txt.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/tmp/googletest-populate-gitclone.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/tmp/googletest-populate-gitupdate.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/compile_commands.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/gpu-self-organising-maps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/gpu_self_organising_maps.cbp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="66" selection-start-line="28" selection-start-column="66" selection-end-line="28" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/gpu_som_cuda.cu">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="149">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cad</find>
+      <find>iteration++</find>
+      <find>iteration+</find>
+      <find>iteration</find>
+      <find>cpy(</find>
+      <find>memcpy(</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/gpu_som.cu" />
+        <option value="$PROJECT_DIR$/gpu_som.cpp" />
+        <option value="$PROJECT_DIR$/include/gpuselforganisingmaps.hpp" />
+        <option value="$PROJECT_DIR$/include/distance_functions.hpp" />
+        <option value="$PROJECT_DIR$/include/argmin.h++" />
+        <option value="$PROJECT_DIR$/include/argmin.hpp" />
+        <option value="$PROJECT_DIR$/include/som.hpp" />
+        <option value="$PROJECT_DIR$/include/som_old.hpp" />
+        <option value="$PROJECT_DIR$/src/gpu_som_CUDA.cu" />
+        <option value="$PROJECT_DIR$/include/hpc_project_1.h++" />
+        <option value="$PROJECT_DIR$/include/distance_function.hpp" />
+        <option value="$PROJECT_DIR$/data/iris.data" />
+        <option value="$PROJECT_DIR$/data/inputs/correlated-stream.data" />
+        <option value="$PROJECT_DIR$/src/gpu_som_sequential.cpp" />
+        <option value="$PROJECT_DIR$/include/gpu_self_organising_maps_CUDA_optimized.hpp" />
+        <option value="$PROJECT_DIR$/src/gpu_som.cpp" />
+        <option value="$PROJECT_DIR$/src/gpu_som_optimised.cu" />
+        <option value="$PROJECT_DIR$/src/gpu_som.cu" />
+        <option value="$PROJECT_DIR$/include/timer.hpp" />
+        <option value="$PROJECT_DIR$/include/hpc_project_1.hpp" />
+        <option value="$PROJECT_DIR$/include/data_reader.hpp" />
+        <option value="$PROJECT_DIR$/include/cpu_self_organising_maps_sequential.hpp" />
+        <option value="$PROJECT_DIR$/include/gpu_self_organising_maps.hpp" />
+        <option value="$PROJECT_DIR$/include/gpu_self_organising_maps_optimised.hpp" />
+        <option value="$PROJECT_DIR$/src/cpu_som_sequential.cpp" />
+        <option value="$PROJECT_DIR$/include/gpu_self_organising_maps_CUDA.hpp" />
+        <option value="$PROJECT_DIR$/include/gpu_self_organising_maps_CUDA_optimised.hpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="687" />
+    <option name="y" value="153" />
+    <option name="width" value="930" />
+    <option name="height" value="789" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gpu_self_organising_maps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gpu-cuda-self-organising-maps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gpu_self_organising_maps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gpu-cuda-self-organising-maps" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gpu_self_organising_maps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gpu-cuda-self-organising-maps" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="outputs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gpu_self_organising_maps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gpu-cuda-self-organising-maps" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gpu_self_organising_maps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gpu-cuda-self-organising-maps" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/include/old" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/include" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="gpu-self-organising-maps" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="4 4  ../data/iris.data ../dataoutpu.data" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gpu_self_organising_maps" TARGET_NAME="gpu-self-organising-maps" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="gpu_self_organising_maps" RUN_TARGET_NAME="gpu-self-organising-maps">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e1ac763-ba7b-45a9-94ec-6e0d95c8aee1" name="Default Changelist" comment="" />
+      <created>1553988370299</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553988370299</updated>
+      <workItem from="1553988371835" duration="5879000" />
+      <workItem from="1554114562413" duration="7482000" />
+      <workItem from="1554122981049" duration="7995000" />
+      <workItem from="1554139493392" duration="6426000" />
+      <workItem from="1554163375592" duration="2985000" />
+      <workItem from="1554304920793" duration="2537000" />
+      <workItem from="1554719297273" duration="5719000" />
+      <workItem from="1555323015453" duration="7710000" />
+      <workItem from="1555357730012" duration="6559000" />
+      <workItem from="1555518806649" duration="2610000" />
+      <workItem from="1555524095977" duration="6927000" />
+      <workItem from="1555670480352" duration="23538000" />
+      <workItem from="1555753700838" duration="35078000" />
+      <workItem from="1555865259083" duration="71180000" />
+      <workItem from="1555979835138" duration="992000" />
+    </task>
+    <task id="LOCAL-00001" summary="1st version of the algorithm (not tested completely yet)">
+      <created>1555680629794</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555680629794</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Some minor changes">
+      <created>1555681465907</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1555681465907</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Some minor changes">
+      <created>1555684910936</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1555684910936</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Sequential version added">
+      <created>1555684964125</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1555684964125</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Another input data file to test">
+      <created>1555685021255</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1555685021255</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Some minor changes">
+      <created>1555689862828</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1555689862828</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Some minor changes">
+      <created>1555690795455</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1555690795455</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Some minor changes">
+      <created>1555694582881</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1555694582881</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Some minor changes">
+      <created>1555694627547</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1555694627547</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Some minor changes">
+      <created>1555694889689</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1555694889689</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Some minor changes">
+      <created>1555694988083</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1555694988083</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Some tests performed">
+      <created>1555695026211</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1555695026211</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Some minor changes">
+      <created>1555785323219</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1555785323219</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Some minor changes">
+      <created>1555785620756</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1555785620756</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Some minor fixes and changes in CUDA's version">
+      <created>1555785731286</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1555785731286</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Executable of CUDA's version added">
+      <created>1555785798230</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1555785798230</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Some minor changes in sequential version">
+      <created>1555785843524</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1555785843524</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Some minor changes">
+      <created>1555785872503</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1555785872503</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Some experimental tests performed">
+      <created>1555785903780</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1555785903780</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Some minor changes">
+      <created>1555797175826</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1555797175826</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Some minor changes">
+      <created>1555797242027</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1555797242027</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Method added to verify if two strings are equals, ignoring case">
+      <created>1555797321858</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1555797321858</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Some distance functions added">
+      <created>1555797362099</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1555797362099</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Some minor changes">
+      <created>1555801106421</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1555801106421</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Some minor changes">
+      <created>1555801203870</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1555801203870</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Some minor changes">
+      <created>1555801249500</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1555801249500</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Some minor fixes and changes">
+      <created>1555801319051</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1555801319051</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Some minor fixes and changes">
+      <created>1555801360293</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1555801360293</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Some minor changes">
+      <created>1555801377155</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1555801377155</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Some executable files added">
+      <created>1555801396570</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1555801396570</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Some minor changes">
+      <created>1555836059354</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1555836059355</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Some minor changes">
+      <created>1555836123727</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1555836123727</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Header to CPU's sequential version added">
+      <created>1555836172084</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1555836172084</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Some minor changes">
+      <created>1555836198373</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1555836198373</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Some minor changes">
+      <created>1555836297773</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1555836297773</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Some minor changes">
+      <created>1555836398295</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1555836398295</updated>
+    </task>
+    <task id="LOCAL-00037" summary="New tests performed">
+      <created>1555836741352</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1555836741352</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Some minor changes">
+      <created>1555836760378</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1555836760378</updated>
+    </task>
+    <task id="LOCAL-00039" summary="New executables generated">
+      <created>1555836792223</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1555836792223</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Delivered Version of the Project">
+      <created>1555974663388</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1555974663388</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Delivered Version of the Project">
+      <created>1555980309976</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1555980309976</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Delivered Version of the Project">
+      <created>1555980360451</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1555980360451</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Delivered Version of the Project">
+      <created>1555980412797</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1555980412797</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Delivered Version of the Project">
+      <created>1555980637300</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1555980637300</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Delivered Version of the Project">
+      <created>1555980695603</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1555980695603</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="208504000" />
+  </component>
+  <component name="TodoView" selected-index="5">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21878335" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32937366" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39956802" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32937366" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32937366" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="TeamCity" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.31641468" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.32937366" />
+      <window_info active="true" anchor="bottom" id="Messages" order="13" visible="true" weight="0.32937366" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="LuaJ" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20384204" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32937366" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39956802" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32937366" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32937366" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="TeamCity" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.31641468" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.32937366" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32937366" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="LuaJ" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1st version of the algorithm (not tested completely yet)" />
+    <MESSAGE value="Sequential version added" />
+    <MESSAGE value="Another input data file to test" />
+    <MESSAGE value="Some tests performed" />
+    <MESSAGE value="Some minor fixes and changes in CUDA's version" />
+    <MESSAGE value="Executable of CUDA's version added" />
+    <MESSAGE value="Some minor changes in sequential version" />
+    <MESSAGE value="Some experimental tests performed" />
+    <MESSAGE value="Method added to verify if two strings are equals, ignoring case" />
+    <MESSAGE value="Some distance functions added" />
+    <MESSAGE value="Some minor fixes and changes" />
+    <MESSAGE value="Some executable files added" />
+    <MESSAGE value="Header to CPU's sequential version added" />
+    <MESSAGE value="New tests performed" />
+    <MESSAGE value="Some minor changes" />
+    <MESSAGE value="New executables generated" />
+    <MESSAGE value="Delivered Version of the Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delivered Version of the Project" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/gpu_self_organising_maps.cbp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/argmin.hpp" />
+    <entry file="file://$PROJECT_DIR$/include/gpu_self_organising_maps_CUDA.h++" />
+    <entry file="file:///usr/include/c++/6/fstream">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="714" column="6" selection-start-line="714" selection-start-column="6" selection-end-line="714" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gpu_som_CUDA.cu" />
+    <entry file="file://$PROJECT_DIR$/src/gpu_som_tmp.cu" />
+    <entry file="file://$PROJECT_DIR$/src/gpu_som_old.cpp" />
+    <entry file="file://$PROJECT_DIR$/include/old/som_old.hpp" />
+    <entry file="file://$PROJECT_DIR$/data/output.data" />
+    <entry file="file://$PROJECT_DIR$/data/iris.data" />
+    <entry file="file://$PROJECT_DIR$/src/gpu_som_sequential.h++" />
+    <entry file="file://$PROJECT_DIR$/data/inputs/correlated-stream.data">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/outputs/iris-test-1.data" />
+    <entry file="file://$PROJECT_DIR$/data/outputs/iris-sequential-test-1.data" />
+    <entry file="file://$PROJECT_DIR$/data/outputs/iris-test-4.data" />
+    <entry file="file://$PROJECT_DIR$/data/outputs/iris-sequential-test-4.data" />
+    <entry file="file://$PROJECT_DIR$/data/outputs/iris-test-5.data" />
+    <entry file="file://$PROJECT_DIR$/data/outputs/iris-test-6.data" />
+    <entry file="file://$PROJECT_DIR$/data/outputs/iris-sequential-test-5.data" />
+    <entry file="file:///usr/include/tic.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="143" column="8" selection-start-line="143" selection-start-column="8" selection-end-line="143" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/6/functional">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="686" column="2" selection-start-line="686" selection-start-column="2" selection-end-line="686" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/6/bits/basic_string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="379" column="6" selection-start-line="379" selection-start-column="6" selection-end-line="379" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/ctype.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="121" column="11" selection-start-line="121" selection-start-column="11" selection-end-line="121" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/6/bits/stl_vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="254" column="6" selection-start-line="254" selection-start-column="6" selection-end-line="254" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gpu_som.h++" />
+    <entry file="file://$PROJECT_DIR$/src/gpu_som.cpp" />
+    <entry file="file://$PROJECT_DIR$/src/gpu_som_cuda_optimised.cu">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/timer.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="852">
+          <caret line="67" column="27" selection-start-line="67" selection-start-column="27" selection-end-line="67" selection-end-column="27" />
+          <folding>
+            <element signature="e#87#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/hpc_project_1.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="80" column="1" selection-start-line="80" selection-start-column="1" selection-end-line="80" selection-end-column="1" />
+          <folding>
+            <element signature="e#155#171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/data_reader.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="120" column="4" lean-forward="true" selection-start-line="120" selection-start-column="4" selection-end-line="120" selection-end-column="4" />
+          <folding>
+            <element signature="e#99#116#0" expanded="true" />
+            <element signature="e#269#281#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/distance_function.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/cpu_self_organising_maps_sequential.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="49" column="55" lean-forward="true" selection-start-line="49" selection-start-column="55" selection-end-line="49" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/gpu_self_organising_maps.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1665">
+          <caret line="128" column="18" selection-start-line="128" selection-start-column="18" selection-end-line="128" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cpu_som_sequential.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="118" column="69" selection-start-line="118" selection-start-column="69" selection-end-line="118" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/gpu_self_organising_maps_optimised.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1353">
+          <caret line="96" column="46" selection-start-line="96" selection-start-column="46" selection-end-line="96" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/gpu_self_organising_maps_CUDA.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="644" column="24" selection-start-line="644" selection-start-column="24" selection-end-line="644" selection-end-column="24" />
+          <folding>
+            <element signature="e#1794#1806#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/gpu_self_organising_maps_CUDA_optimised.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="2213" column="31" selection-start-line="2213" selection-start-column="24" selection-end-line="2213" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="66" selection-start-line="28" selection-start-column="66" selection-end-line="28" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gpu_som_cuda.cu">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,41 +1,41 @@
-# GPU - Self-Organising Maps (S.O.M. Algorithm)
+# GPU's CUDA - Self-Organising Maps (S.O.M. Algorithm)
 
-![https://raw.githubusercontent.com/rubenandrebarreiro/gpu-self-organising-maps/master/imgs/JPGs/banner-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/gpu-self-organising-maps/master/imgs/JPGs/banner-1.jpg)
-###### GPU - Self-Organising Maps (S.O.M. Algorithm) - Banner #1
+![https://raw.githubusercontent.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/master/imgs/JPGs/banner-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/master/imgs/JPGs/banner-1.jpg)
+###### GPU's CUDA - Self-Organising Maps (S.O.M. Algorithm) - Banner #1
 
 ***
 
 
 ## Current Status
 [![contributor for this repository](https://img.shields.io/badge/contributor-rubenandrebarreiro-blue.svg)](https://github.com/rubenandrebarreiro/) [![developed in](https://img.shields.io/badge/developed&nbsp;in-fct&nbsp;nova-blue.svg)](https://www.fct.unl.pt/)
-[![current version](https://img.shields.io/badge/version-1.0-magenta.svg)](https://github.com/rubenandrebarreiro/gpu-self-organising-maps/)
+[![current version](https://img.shields.io/badge/version-1.0-magenta.svg)](https://github.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/)
 
-[![status of this version no. 1](https://img.shields.io/badge/status-not&nbsp;completed-orange.svg)](https://github.com/rubenandrebarreiro/gpu-self-organising-maps/)
-[![status of this version no. 2](https://img.shields.io/badge/status-not&nbsp;final-orange.svg)](https://github.com/rubenandrebarreiro/gpu-self-organising-maps/)
-[![status of this version no. 3](https://img.shields.io/badge/status-not&nbsp;stable-orange.svg)](https://github.com/rubenandrebarreiro/gpu-self-organising-maps/)
-[![status of this version no. 4](https://img.shields.io/badge/status-documented-orange.svg)](https://github.com/rubenandrebarreiro/gpu-self-organising-maps/)
+[![status of this version no. 1](https://img.shields.io/badge/status-not&nbsp;completed-orange.svg)](https://github.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/)
+[![status of this version no. 2](https://img.shields.io/badge/status-not&nbsp;final-orange.svg)](https://github.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/)
+[![status of this version no. 3](https://img.shields.io/badge/status-not&nbsp;stable-orange.svg)](https://github.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/)
+[![status of this version no. 4](https://img.shields.io/badge/status-documented-orange.svg)](https://github.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/)
 
-[![keyword of this version no. 1](https://img.shields.io/badge/keyword-high&nbsp;performance&nbsp;computing-brown.svg)](https://github.com/rubenandrebarreiro/gpu-self-organising-maps/)
-[![keyword of this version no. 2](https://img.shields.io/badge/keyword-neural&nbsp;networks-brown.svg)](https://github.com/rubenandrebarreiro/gpu-self-organising-maps/)
-[![keyword of this version no. 3](https://img.shields.io/badge/keyword-som-brown.svg)](https://github.com/rubenandrebarreiro/gpu-self-organising-maps/)
-[![keyword of this version no. 4](https://img.shields.io/badge/keyword-cuda-brown.svg)](https://github.com/rubenandrebarreiro/gpu-self-organising-maps/)
+[![keyword of this version no. 1](https://img.shields.io/badge/keyword-high&nbsp;performance&nbsp;computing-brown.svg)](https://github.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/)
+[![keyword of this version no. 2](https://img.shields.io/badge/keyword-neural&nbsp;networks-brown.svg)](https://github.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/)
+[![keyword of this version no. 3](https://img.shields.io/badge/keyword-som-brown.svg)](https://github.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/)
+[![keyword of this version no. 4](https://img.shields.io/badge/keyword-cuda-brown.svg)](https://github.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/)
 
 [![technology used no. 1](https://img.shields.io/badge/built&nbsp;with-c++-red.svg)](http://www.cplusplus.com/) 
 [![technology used no. 2](https://img.shields.io/badge/built&nbsp;with-cuda-red.svg)](https://developer.nvidia.com/cuda-zone) 
 [![software used no. 1](https://img.shields.io/badge/software-jetbrains&nbsp;clion-gold.svg)](https://www.jetbrains.com/clion/)
 
-[![star this repository](http://githubbadges.com/star.svg?user=rubenandrebarreiro&repo=3d-object-viewer-geometric-solids&style=flat)](https://github.com/rubenandrebarreiro/3d-object-viewer-geometric-solids/stargazers)
-[![fork this repository](http://githubbadges.com/fork.svg?user=rubenandrebarreiro&repo=3d-object-viewer-geometric-solids&style=flat)](https://github.com/rubenandrebarreiro/3d-object-viewer-geometric-solids/fork)
-[![downloads of this repository](https://img.shields.io/github/downloads/rubenandrebarreiro/3d-object-viewer-geometric-solids/total.svg)](https://github.com/rubenandrebarreiro/3d-object-viewer-geometric-solids/archive/master.zip)
-[![price of this project](https://img.shields.io/badge/price-free-success.svg)](https://github.com/rubenandrebarreiro/3d-object-viewer-geometric-solids/archive/master.zip)
+[![star this repository](http://githubbadges.com/star.svg?user=rubenandrebarreiro&repo=gpu-cuda-self-organising-maps&style=flat)](https://github.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/stargazers)
+[![fork this repository](http://githubbadges.com/fork.svg?user=rubenandrebarreiro&repo=gpu-cuda-self-organising-maps&style=flat)](https://github.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/fork)
+[![downloads of this repository](https://img.shields.io/github/downloads/rubenandrebarreiro/gpu-cuda-self-organising-maps/total.svg)](https://github.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/archive/master.zip)
+[![price of this project](https://img.shields.io/badge/price-free-success.svg)](https://github.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/archive/master.zip)
 
 ##### Current Progress of the Project
 
-[![current progress of this project](http://progressed.io/bar/80?title=&nbsp;completed&nbsp;)](https://github.com/rubenandrebarreiro/gpu-self-organising-maps/) 
+[![current progress of this project](http://progressed.io/bar/80?title=&nbsp;completed&nbsp;)](https://github.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/) 
 
 ##### Final Approval Grade of the Project
 
-[![grade of this project](http://progressed.io/bar/0?scale=20&title=&nbsp;grade&nbsp;&suffix=&nbsp;)](https://github.com/rubenandrebarreiro/gpu-self-organising-maps/)
+[![grade of this project](http://progressed.io/bar/0?scale=20&title=&nbsp;grade&nbsp;&suffix=&nbsp;)](https://github.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/)
 
 
 ## Description
@@ -81,8 +81,8 @@ learning rate(t) = 1/t
 
 > **_Algorithm #1_**
 
-![https://raw.githubusercontent.com/rubenandrebarreiro/gpu-self-organising-maps/master/imgs/JPGs/algorithm-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/gpu-self-organising-maps/master/imgs/JPGs/algorithm-1.jpg)
-######  GPU - Self-Organising Maps (S.O.M. Algorithm) - Algorithm #1
+![https://raw.githubusercontent.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/master/imgs/JPGs/algorithm-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/master/imgs/JPGs/algorithm-1.jpg)
+######  GPU's CUDA - Self-Organising Maps (S.O.M. Algorithm) - Algorithm #1
 
 
 ### 3) GPU Implementation
@@ -108,9 +108,16 @@ be written. **distance** is the parameter that allows the user to choose between
 
 > As mentioned in the previous section, you must implement two distance functions:
 
-##### a.1) Euclidean Distance
+##### i) Euclidean 2D Distance (mandatory)
 
-##### a.2) Cosine Distance
+##### ii) Cosine Distance (mandatory)
+
+##### iii) Manhattan Distance (bonus)
+
+##### iv) Minkowski Distance (bonus)
+
+##### v) Chebyshev Distance (bonus)
+
 
 #### b) Performance Measurements
 
@@ -121,16 +128,21 @@ be written. **distance** is the parameter that allows the user to choose between
 > Along with the code of your solution, you must deliver a report of, at most, 5 pages presenting your solution, your experiment results and your conclusions. Concerning the solution, focus on explaining which parts of the algorithm are executed on the
 GPU, and describing the algorithms you devised to accomplish such execution.
 
+##### i) Implementation's report
+
+![https://raw.githubusercontent.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/master/imgs/JPGs/screenshot-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/master/imgs/JPGs/screenshot-1.jpg)
+######  GPU's CUDA - Self-Organising Maps (S.O.M. Algorithm) - Report #1
+
 
 ## Screenshots
 
-![https://raw.githubusercontent.com/rubenandrebarreiro/gpu-self-organising-maps/master/imgs/JPGs/screenshot-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/gpu-self-organising-maps/master/imgs/JPGs/screenshot-1.jpg)
-######  GPU - Self-Organising Maps (S.O.M. Algorithm) - Screenshot #1
+![https://raw.githubusercontent.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/master/imgs/JPGs/screenshot-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/master/imgs/JPGs/screenshot-1.jpg)
+######  GPU's CUDA - Self-Organising Maps (S.O.M. Algorithm) - Screenshot #1
 
 ***
 
-![https://raw.githubusercontent.com/rubenandrebarreiro/gpu-self-organising-maps/master/imgs/JPGs/screenshot-2.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/gpu-self-organising-maps/master/imgs/JPGs/screenshot-2.jpg)
-######  GPU - Self-Organising Maps (S.O.M. Algorithm) - Screenshot #2
+![https://raw.githubusercontent.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/master/imgs/JPGs/screenshot-2.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/master/imgs/JPGs/screenshot-2.jpg)
+######  GPU's CUDA - Self-Organising Maps (S.O.M. Algorithm) - Screenshot #2
 
 ***
 
@@ -145,26 +157,26 @@ To install and run this application, you will need:
 ### Installation
 To install this application, you will only need to _download_ or _clone_ this repository and run the application locally:
 
-> You can do it downloading the [**_.zip file_**](https://github.com/rubenandrebarreiro/gpu-self-organising-maps/archive/master.zip) in download section of this repository.
+> You can do it downloading the [**_.zip file_**](https://github.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/archive/master.zip) in download section of this repository.
 
 > Or instead, by cloning this repository by a [**_Git Client based GUI_**](https://git-scm.com/downloads/guis), using [**_HTTPS_**](https://en.wikipedia.org/wiki/HTTPS) or [**_SSH_**](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol), by one of the following link:
 * [**_HTTPS_**](https://en.wikipedia.org/wiki/HTTPS):
 ```
-https://github.com/rubenandrebarreiro/gpu-self-organising-maps.git
+https://github.com/rubenandrebarreiro/gpu-cuda-self-organising-maps.git
 ```
 * [**_SSH_**](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol):
 ```
-git@github.com:rubenandrebarreiro/3gpu-self-organising-maps.git
+git@github.com:rubenandrebarreiro/gpu-cuda-self-organising-maps.git
 ```
 
 > Or even, by running one of the following commands in a **_Git Bash Console_**:
 * [**_HTTPS_**](https://en.wikipedia.org/wiki/HTTPS):
 ```
-git clone https://github.com/rubenandrebarreiro/gpu-self-organising-maps.git
+git clone https://github.com/rubenandrebarreiro/gpu-cuda-self-organising-maps.git
 ```
 * [**_SSH_**](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol):
 ```
-git clone git@github.com:rubenandrebarreiro/gpu-self-organising-maps.git
+git clone git@github.com:rubenandrebarreiro/gpu-cuda-self-organising-maps.git
 ```
 
 ## Built with

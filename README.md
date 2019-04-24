@@ -130,9 +130,12 @@ GPU, and describing the algorithms you devised to accomplish such execution.
 
 ##### i) Implementation's report
 
-[High Performance Computing - GPU’s Implementation of Self-Organising Maps (S.O.M. Algorithm) - Report](https://raw.githubusercontent.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/master/report/PDFs/report-1.pdf)
+[Click here to see the Project's Report!](https://raw.githubusercontent.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/master/report/PDFs/report-1.pdf)
 ######  GPU's CUDA - Self-Organising Maps (S.O.M. Algorithm) - Report #1
 
+
+[Click here to see the Project's Description!](https://raw.githubusercontent.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/master/project-description/PDFs/projec-description-1.pdf)
+######  GPU's CUDA - Self-Organising Maps (S.O.M. Algorithm) - Project's Description #1
 
 ## Screenshots
 

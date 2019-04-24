@@ -234,21 +234,7 @@
       <workItem from="1555865259083" duration="71180000" />
       <workItem from="1555979835138" duration="992000" />
       <workItem from="1556069046363" duration="1285000" />
-      <workItem from="1556074279154" duration="277000" />
-    </task>
-    <task id="LOCAL-00001" summary="1st version of the algorithm (not tested completely yet)">
-      <created>1555680629794</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1555680629794</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Some minor changes">
-      <created>1555681465907</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1555681465907</updated>
+      <workItem from="1556074279154" duration="520000" />
     </task>
     <task id="LOCAL-00003" summary="Some minor changes">
       <created>1555684910936</created>
@@ -572,11 +558,32 @@
       <option name="project" value="LOCAL" />
       <updated>1556074412225</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Some experimental tests' outputs added">
+      <created>1556074566448</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1556074566448</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Some experimental tests' outputs added">
+      <created>1556074601833</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1556074601834</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Some experimental tests' outputs added">
+      <created>1556074791552</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1556074791552</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="210066000" />
+    <option name="totallyTimeSpent" value="210309000" />
   </component>
   <component name="TodoView" selected-index="5">
     <todo-panel id="selected-file">
@@ -865,9 +872,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="737" column="6" selection-start-line="737" selection-start-column="6" selection-end-line="737" selection-end-column="6" />
-          <folding>
-            <element signature="e#113825#114142#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

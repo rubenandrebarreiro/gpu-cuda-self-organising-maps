@@ -34,8 +34,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e1ac763-ba7b-45a9-94ec-6e0d95c8aee1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gpu_som_cuda_optimised" beforeDir="false" afterPath="$PROJECT_DIR$/src/gpu_som_cuda_optimised" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpu-cuda-self-organising-maps.zip" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -153,6 +152,11 @@
             <path>
               <item name="gpu_self_organising_maps" type="b2602c69:ProjectViewProjectNode" />
               <item name="gpu-cuda-self-organising-maps" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gpu_self_organising_maps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gpu-cuda-self-organising-maps" type="462c0819:PsiDirectoryNode" />
               <item name="include" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -228,7 +232,7 @@
       <workItem from="1555753700838" duration="35078000" />
       <workItem from="1555865259083" duration="71180000" />
       <workItem from="1555979835138" duration="992000" />
-      <workItem from="1556069046363" duration="1031000" />
+      <workItem from="1556069046363" duration="1285000" />
     </task>
     <task id="LOCAL-00001" summary="1st version of the algorithm (not tested completely yet)">
       <created>1555680629794</created>
@@ -552,11 +556,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556069880337</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Some parallelism improvements">
+      <created>1556070092577</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1556070092577</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="209535000" />
+    <option name="totallyTimeSpent" value="209789000" />
   </component>
   <component name="TodoView" selected-index="5">
     <todo-panel id="selected-file">

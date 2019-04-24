@@ -33,7 +33,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e1ac763-ba7b-45a9-94ec-6e0d95c8aee1" name="Default Changelist" comment="" />
+    <list default="true" id="3e1ac763-ba7b-45a9-94ec-6e0d95c8aee1" name="Default Changelist" comment="Some experimental tests' outputs added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,8 +67,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/include/gpu_self_organising_maps_CUDA_optimised.hpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="737" column="6" selection-start-line="737" selection-start-column="6" selection-end-line="737" selection-end-column="6" />
+            <state relative-caret-position="120">
+              <caret line="740" column="6" selection-start-line="740" selection-start-column="6" selection-end-line="740" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -125,9 +127,9 @@
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="687" />
-    <option name="y" value="153" />
-    <option name="width" value="930" />
+    <option name="x" value="390" />
+    <option name="y" value="291" />
+    <option name="width" value="920" />
     <option name="height" value="789" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -234,28 +236,7 @@
       <workItem from="1555865259083" duration="71180000" />
       <workItem from="1555979835138" duration="992000" />
       <workItem from="1556069046363" duration="1285000" />
-      <workItem from="1556074279154" duration="520000" />
-    </task>
-    <task id="LOCAL-00003" summary="Some minor changes">
-      <created>1555684910936</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1555684910936</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Sequential version added">
-      <created>1555684964125</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1555684964125</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Another input data file to test">
-      <created>1555685021255</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1555685021255</updated>
+      <workItem from="1556074279154" duration="1644000" />
     </task>
     <task id="LOCAL-00006" summary="Some minor changes">
       <created>1555689862828</created>
@@ -579,11 +560,32 @@
       <option name="project" value="LOCAL" />
       <updated>1556074791552</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Some experimental tests' outputs added">
+      <created>1556075007352</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1556075007352</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Some experimental tests' outputs added">
+      <created>1556075038210</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1556075038210</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Some experimental tests' outputs added">
+      <created>1556075365804</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1556075365804</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="210309000" />
+    <option name="totallyTimeSpent" value="211433000" />
   </component>
   <component name="TodoView" selected-index="5">
     <todo-panel id="selected-file">
@@ -596,8 +598,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22411953" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22411953" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -611,7 +614,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="TeamCity" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.31641468" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.31641468" />
       <window_info anchor="bottom" id="CMake" order="12" weight="0.32937366" />
       <window_info active="true" anchor="bottom" id="Messages" order="13" visible="true" weight="0.32937366" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -870,8 +873,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/include/gpu_self_organising_maps_CUDA_optimised.hpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="737" column="6" selection-start-line="737" selection-start-column="6" selection-end-line="737" selection-end-column="6" />
+        <state relative-caret-position="120">
+          <caret line="740" column="6" selection-start-line="740" selection-start-column="6" selection-end-line="740" selection-end-column="6" />
         </state>
       </provider>
     </entry>

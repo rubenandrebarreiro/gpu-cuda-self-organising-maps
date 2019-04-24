@@ -193,8 +193,10 @@ git clone git@github.com:rubenandrebarreiro/gpu-cuda-self-organising-maps.git
 ```
 
 ## Built with
-* [**_C++ (C Plus Plus)_**](http://www.cplusplus.com/)
 * [**_CUDA (Compute Unified Device Architecture)_**](https://developer.nvidia.com/cuda-zone)
+* [**_C++ (C Plus Plus)_**](http://www.cplusplus.com/)
+* [**_C_**](https://en.wikipedia.org/wiki/C_(programming_language))
+* [**_CMake_**](https://cmake.org/)
 * [**_JetBrains CLion_**](https://www.jetbrains.com/clion/)
 
 

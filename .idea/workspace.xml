@@ -34,97 +34,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e1ac763-ba7b-45a9-94ec-6e0d95c8aee1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeCUDACompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CUDA.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/CMakeCUDACompilerId.cu" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/a.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cpp1.ii" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cpp4.ii" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cudafe1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cudafe1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cudafe1.gpu" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.cudafe1.stub.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.fatbin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.fatbin.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.module_id" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.ptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/tmp/CMakeCUDACompilerId.sm_30.cubin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/tmp/a_dlink.fatbin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/tmp/a_dlink.fatbin.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/tmp/a_dlink.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/tmp/a_dlink.reg.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCUDA/tmp/a_dlink.sm_30.cubin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeError.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CheckLibraryExists/CheckFunctionExists.cxx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/gpu-self-organising-maps.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/gpu-self-organising-maps.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/gpu-self-organising-maps.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/gpu-self-organising-maps.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/gpu-self-organising-maps.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/gpu-self-organising-maps.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/gpu-self-organising-maps.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CTestTestfile.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-src" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/3.13.2/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/CMakeRuleHashes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/Makefile2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir/Labels.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir/Labels.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir/depend.internal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-gitclone-lastrun.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-gitinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/tmp/googletest-populate-cfgcmd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/tmp/googletest-populate-cfgcmd.txt.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/tmp/googletest-populate-gitclone.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/tmp/googletest-populate-gitupdate.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/compile_commands.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/gpu-self-organising-maps" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/gpu_self_organising_maps.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpu-cuda-self-organising-maps.zip" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -145,11 +55,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/gpu_som_cuda.cu">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
+            <state relative-caret-position="151">
               <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/include/gpu_self_organising_maps_CUDA_optimised.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="737" column="6" selection-start-line="737" selection-start-column="6" selection-end-line="737" selection-end-column="6" />
+              <folding>
+                <element signature="e#113825#114142#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -201,8 +123,8 @@
         <option value="$PROJECT_DIR$/include/gpu_self_organising_maps_optimised.hpp" />
         <option value="$PROJECT_DIR$/src/cpu_som_sequential.cpp" />
         <option value="$PROJECT_DIR$/include/gpu_self_organising_maps_CUDA.hpp" />
-        <option value="$PROJECT_DIR$/include/gpu_self_organising_maps_CUDA_optimised.hpp" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/include/gpu_self_organising_maps_CUDA_optimised.hpp" />
       </list>
     </option>
   </component>
@@ -219,6 +141,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -234,12 +157,6 @@
             <path>
               <item name="gpu_self_organising_maps" type="b2602c69:ProjectViewProjectNode" />
               <item name="gpu-cuda-self-organising-maps" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="outputs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gpu_self_organising_maps" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gpu-cuda-self-organising-maps" type="462c0819:PsiDirectoryNode" />
               <item name="include" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -251,7 +168,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -316,6 +232,7 @@
       <workItem from="1555753700838" duration="35078000" />
       <workItem from="1555865259083" duration="71180000" />
       <workItem from="1555979835138" duration="992000" />
+      <workItem from="1556069046363" duration="1285000" />
     </task>
     <task id="LOCAL-00001" summary="1st version of the algorithm (not tested completely yet)">
       <created>1555680629794</created>
@@ -632,11 +549,25 @@
       <option name="project" value="LOCAL" />
       <updated>1555980695603</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Some parallelism improvements">
+      <created>1556069880337</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1556069880337</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Some parallelism improvements">
+      <created>1556070092577</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1556070092577</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="208504000" />
+    <option name="totallyTimeSpent" value="209789000" />
   </component>
   <component name="TodoView" selected-index="5">
     <todo-panel id="selected-file">
@@ -650,7 +581,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21878335" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22145145" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -664,7 +595,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="TeamCity" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.31641468" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.31641468" />
       <window_info anchor="bottom" id="CMake" order="12" weight="0.32937366" />
       <window_info active="true" anchor="bottom" id="Messages" order="13" visible="true" weight="0.32937366" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -726,6 +657,20 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1st version of the algorithm (not tested completely yet)" />
@@ -745,7 +690,8 @@
     <MESSAGE value="Some minor changes" />
     <MESSAGE value="New executables generated" />
     <MESSAGE value="Delivered Version of the Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Delivered Version of the Project" />
+    <MESSAGE value="Some parallelism improvements" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some parallelism improvements" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/cmake-build-debug/gpu_self_organising_maps.cbp">
@@ -852,13 +798,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/include/distance_function.hpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/include/distance_function.hpp" />
     <entry file="file://$PROJECT_DIR$/include/cpu_self_organising_maps_sequential.hpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -897,13 +837,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/include/gpu_self_organising_maps_CUDA_optimised.hpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="2213" column="31" selection-start-line="2213" selection-start-column="24" selection-end-line="2213" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -913,8 +846,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/gpu_som_cuda.cu">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
+        <state relative-caret-position="151">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/gpu_self_organising_maps_CUDA_optimised.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="737" column="6" selection-start-line="737" selection-start-column="6" selection-end-line="737" selection-end-column="6" />
+          <folding>
+            <element signature="e#113825#114142#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

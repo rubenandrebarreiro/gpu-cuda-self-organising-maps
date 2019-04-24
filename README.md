@@ -204,6 +204,26 @@ git clone git@github.com:rubenandrebarreiro/gpu-cuda-self-organising-maps.git
 
 > [Rúben André Barreiro](https://github.com/rubenandrebarreiro/)
 
+## Contacts
+
+### Rúben André Barreiro
+#### E-mails
+* [ruben.barreiro.92@gmail.com](mailto:ruben.barreiro.92@gmail.com)
+* [r.barreiro@campus.fct.unl.pt](mailto:r.barreiro@campus.fct.unl.pt)
+* [up201808917@fe.up.pt](mailto:up201808917@fe.up.pt)
+* [up201808917@g.uporto.pt](mailto:up201808917@g.uporto.pt)
+
+## Portfolios/Blogs and Git Hosting/Repository Services
+
+### Rúben André Barreiro
+#### GitHub's Portfolio/Personal Blog
+* [https://rubenandrebarreiro.github.io/](https://rubenandrebarreiro.github.io/)
+
+#### Hosting/Repository Services
+* [https://github.com/rubenandrebarreiro/](https://github.com/rubenandrebarreiro/)
+* [https://gitlab.com/rubenandrebarreiro/](https://gitlab.com/rubenandrebarreiro/)
+* [https://bitbucket.org/rubenandrebarreiro/](https://bitbucket.org/rubenandrebarreiro/)
+* [https://dev.azure.com/rubenandrebarreiro/](https://dev.azure.com/rubenandrebarreiro/)
 
 ## Classifications/Final Approval Grades
 

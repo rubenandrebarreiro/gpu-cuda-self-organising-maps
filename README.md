@@ -113,14 +113,19 @@ be written. **distance** is the parameter that allows the user to choose between
 > As mentioned in the previous section, you must implement two distance functions:
 
 ##### i) Euclidean 2D Distance (mandatory)
+![https://raw.githubusercontent.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/master/imgs/JPGs/distances-functions/euclidean-2d-distance-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/master/imgs/JPGs/distances-functions/euclidean-2d-distance-1.jpg)
 
 ##### ii) Cosine Distance (mandatory)
+![https://raw.githubusercontent.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/master/imgs/JPGs/distances-functions/cosine-distance-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/master/imgs/JPGs/distances-functions/cosine-distance-1.jpg)
 
 ##### iii) Manhattan Distance (bonus)
+![https://raw.githubusercontent.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/master/imgs/JPGs/distances-functions/manhattan-distance-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/master/imgs/JPGs/distances-functions/manhattan-distance-1.jpg)
 
 ##### iv) Minkowski Distance (bonus)
+![https://raw.githubusercontent.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/master/imgs/JPGs/distances-functions/minkowski-distance-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/master/imgs/JPGs/distances-functions/minkowski-distance-1.jpg)
 
 ##### v) Chebyshev Distance (bonus)
+![https://raw.githubusercontent.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/master/imgs/JPGs/distances-functions/chebyshev-distance-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/master/imgs/JPGs/distances-functions/chebyshev-distance-1.jpg)
 
 
 #### b) Performance Measurements

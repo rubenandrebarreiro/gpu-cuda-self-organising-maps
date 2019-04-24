@@ -20,8 +20,10 @@
 [![keyword of this version no. 3](https://img.shields.io/badge/keyword-som-brown.svg)](https://github.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/)
 [![keyword of this version no. 4](https://img.shields.io/badge/keyword-cuda-brown.svg)](https://github.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/)
 
-[![technology used no. 1](https://img.shields.io/badge/built&nbsp;with-c++-red.svg)](http://www.cplusplus.com/) 
-[![technology used no. 2](https://img.shields.io/badge/built&nbsp;with-cuda-red.svg)](https://developer.nvidia.com/cuda-zone) 
+[![technology used no. 1](https://img.shields.io/badge/built&nbsp;with-cuda-red.svg)](https://developer.nvidia.com/cuda-zone) 
+[![technology used no. 2](https://img.shields.io/badge/built&nbsp;with-c++-red.svg)](http://www.cplusplus.com/) 
+[![technology used no. 3](https://img.shields.io/badge/built&nbsp;with-c-red.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![technology used no. 4](https://img.shields.io/badge/built&nbsp;with-cmake-red.svg)](https://cmake.org/) 
 [![software used no. 1](https://img.shields.io/badge/software-jetbrains&nbsp;clion-gold.svg)](https://www.jetbrains.com/clion/)
 
 [![star this repository](http://githubbadges.com/star.svg?user=rubenandrebarreiro&repo=gpu-cuda-self-organising-maps&style=flat)](https://github.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/stargazers)

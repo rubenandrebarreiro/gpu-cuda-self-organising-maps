@@ -744,15 +744,17 @@ namespace gpu_self_organising_maps {
     __global__ void
     update_map(const int iteration, const int number_features, const T *obs, const int map_size, const T *neighborhood,
                T *map) {
-        const int index = (blockIdx.x * blockDim.x) + threadIdx.x;
+
+        unsigned int tid = threadIdx.x;
+        const int index = (blockIdx.x * blockDim.x) + tid;
 
         float learn_rate = (1 / static_cast<float>(iteration));
 
         if (index < map_size) {
             const int index_in_map = index * number_features;
 
-            for (int f = 0; f < number_features; f++) {
-                map[index_in_map + f] += ((learn_rate * neighborhood[index] * (obs[f] - map[index_in_map + f])));
+            if(tid < number_features) {
+                map[index_in_map + tid] += ((learn_rate * neighborhood[index] * (obs[tid] - map[index_in_map + tid])));
             }
         }
     }

@@ -37,7 +37,7 @@
 
 ##### Final Approval Grade of the Project
 
-[![grade of this project](http://progressed.io/bar/18.5?scale=20&title=&nbsp;grade&nbsp;&suffix=&nbsp;)](https://github.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/)
+[![grade of this project](http://progressed.io/bar/19?scale=20&title=&nbsp;grade&nbsp;&suffix=&nbsp;)](https://github.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/)
 
 
 ## Description

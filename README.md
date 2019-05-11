@@ -228,4 +228,4 @@ git clone git@github.com:rubenandrebarreiro/gpu-cuda-self-organising-maps.git
 ## Classifications/Final Approval Grades
 
 ### Approval Grade of Lab Work
-* 0 of 20
+* 18.5 of 20

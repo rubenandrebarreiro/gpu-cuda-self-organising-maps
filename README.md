@@ -208,10 +208,9 @@ git clone git@github.com:rubenandrebarreiro/gpu-cuda-self-organising-maps.git
 
 ### Rúben André Barreiro
 #### E-mails
-* [ruben.barreiro.92@gmail.com](mailto:ruben.barreiro.92@gmail.com)
+* [ruben.andre.letra.barreiro@gmail.com](mailto:ruben.andre.letra.barreiro@gmail.com)
+* [ruben.andre.letra.barreiro@gmail.com](mailto:ruben.andre.letra.barreiro@tecnico.ulisboa.com)
 * [r.barreiro@campus.fct.unl.pt](mailto:r.barreiro@campus.fct.unl.pt)
-* [up201808917@fe.up.pt](mailto:up201808917@fe.up.pt)
-* [up201808917@g.uporto.pt](mailto:up201808917@g.uporto.pt)
 
 ## Portfolios/Blogs and Git Hosting/Repository Services
 
